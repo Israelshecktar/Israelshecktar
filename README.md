@@ -16,15 +16,15 @@
 </div>
 
 <div align="center">
+ 
   ###  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=180D1D&center=true&width=435&lines=Hi+there!+How+wonderful+to+meet+you;I'm+Israel%2C+an+astute+Back-End+Developer;Software+Engineering+Intern+%40ALX_Africa;Thanks+for+stopping+by)](https://git.io/typing-svg)
 </div>
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Israelshecktar&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
+</div
 - 🔭 I’m currently working on C, Html, java script and Python
-
 - 🌱 I’m currently learning Python and Java script
-
 - ❓ Ask me about anything related to HTML, CSS, C, Python and Java script
 - ⚡ Fun fact: I am a student of Alx school of Software Engineering
 - ⚡ Fun fact: The word "TYPEWRITER" can be typed using only the letters on one row of a computer keyboard
