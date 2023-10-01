@@ -7,9 +7,9 @@
 <h3 align="center">Expert Flutter Developer</h3>
 <img align= "right" alt="CodingGuy" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tolulope05&label=Profile%20views&color=0e75b6&style=flat" alt="Tolulope" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Israelshecktar&label=Profile%20views&color=0e75b6&style=flat" alt="Israel" /> </p>
 
-<p align="left"> <a href="https://twitter.com/FakunleTolu" target="blank"><img src="https://img.shields.io/twitter/follow/FakunleTolu?logo=twitter&style=for-the-badge" alt="FakunleTolu" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shecktar5" target="blank"><img src="https://img.shields.io/twitter/follow/shecktar5?logo=twitter&style=for-the-badge" alt="shecktar5" /></a> </p>
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
@@ -27,8 +27,7 @@
 - 🌱 I’m currently learning Python and Java script
 
 - ❓ Ask me about anything related to HTML, CSS, C, Python and Java script
-
-
+- ⚡ Fun fact: I am a student of Alx school of Software Engineering
 - ⚡ Fun fact: The word "TYPEWRITER" can be typed using only the letters on one row of a computer keyboard
 
 <br/>
@@ -105,32 +104,22 @@
 
 ## ❤ Views and Followers.
 
-<a href="https://github.com/Tolulope05/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Tolulope05">
+<a href="https://github.com/Israelshecktar/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Israelshecktar">
 </a>
-<a href="https://github.com/Tolulope05?tab=followers"><img src="https://img.shields.io/github/followers/Tolulope05?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Israelshecktar?tab=followers"><img src="https://img.shields.io/github/followers/Israelshecktar?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
  <br>
 
 
  ## Stats.
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolulope05&layout=compact&theme=dark&hide_border=false" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tolulope05&show_icons=true&locale=en&theme=onedark" alt="Tolulope05" /></p>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israelshecktar&layout=compact&theme=dark&hide_border=false" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Israelshecktar&show_icons=true&locale=en&theme=onedark" alt="Israelshecktar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tolulope05&theme=dark" alt="Tolulope05" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Israelshecktar&theme=dark" alt="Israelshecktar" /></p>
 <br/>
  <b>Note:</b> The top languages shown here is just a measure of what I have posted here on GitHub and not my actual skill level, Thank you.
-
-
-<!-- > <a href="https://github.com/Tolulope05/github-readme-activity-graph"><img alt="Tolulope Fakunle' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Tolulope05&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
-
-<br/>
-
-<!---
-Tolulope05/Tolulope05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <br/>
 
 
