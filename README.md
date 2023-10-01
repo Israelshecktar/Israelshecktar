@@ -17,11 +17,10 @@
 
 <div align="center">
   ###  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=180D1D&center=true&width=435&lines=Hi+there!+How+wonderful+to+meet+you;I'm+Israel%2C+an+astute+Back-End+Developer;Software+Engineering+Intern+%40ALX_Africa;Thanks+for+stopping+by)](https://git.io/typing-svg)
-
+</div>
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Israelshecktar&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-</div
 - 🔭 I’m currently working on C, Html, java script and Python
 
 - 🌱 I’m currently learning Python and Java script
