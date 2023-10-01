@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Israelshecktar&style=plastic&color=red&label=PROFILE+VIEWS)
 
  ![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
-<h1 align="center">Ewedairo Israel  Ayomide; Github Profile</h1>
+<h1 align="center">Ewedairo Israel Ayomide Github Profile</h1>
 <h3 align="center">Expert system Developer</h3>
 <img align= "right" alt="CodingGuy" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
@@ -115,9 +115,6 @@
 
  ## Stats.
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israelshecktar&layout=compact&theme=dark&hide_border=false" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Israelshecktar&show_icons=true&locale=en&theme=onedark" alt="Israelshecktar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Israelshecktar&theme=dark" alt="Israelshecktar" /></p>
 <br/>
  <b>Note:</b> The top languages shown here is just a measure of what I have posted here on GitHub and not my actual skill level, Thank you.
 <br/>
