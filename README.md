@@ -18,7 +18,6 @@
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Israelshecktar&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-</div
 - 🔭 I’m currently working on C, Html, java script and Python
 - 🌱 I’m currently learning Python and Java script
 - ❓ Ask me about anything related to HTML, CSS, C, Python and Java script
