@@ -19,6 +19,7 @@
 - 🔭 I’m currently working on C, Html, java script and Python
 - 🌱 I’m currently learning Python and Java script
 - ❓ Ask me about anything related to HTML, CSS, C, Python and Java script
+- ❓ I am currently building a Buddy group app with Django
 - ⚡ Fun fact: I am a student of Alx school of Software Engineering
 - ⚡ Fun fact: The word "TYPEWRITER" can be typed using only the letters on one row of a computer keyboard
 
