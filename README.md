@@ -108,8 +108,7 @@
 
 
 ## 📊 Stats
-[![Israelshecktar's GitHub | Languages Over Time](https://stats.quine.sh/Israelshecktar/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Israelshecktar)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Israelshecktar&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with me
 <div align="center">
