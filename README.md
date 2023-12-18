@@ -108,10 +108,7 @@
 
 
 ## 📊 Stats
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israelshecktar&layout=compact&theme=dark&hide_border=false" /></p>
-<br/>
- <b>Note:</b> The top languages shown here is just a measure of what I have posted here on GitHub and not my actual skill level, Thank you.
-<br/>
+[![Israelshecktar's GitHub | Languages Over Time](https://stats.quine.sh/Israelshecktar/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Israelshecktar)
 
 
 ## Connect with me
