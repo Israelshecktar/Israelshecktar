@@ -4,7 +4,7 @@
 
 <img src=“Downloads/new_image.png” alt=“MasterHead” width=“500” height=“300”/>
 <h1 align="center">Ewedairo Israel Ayomide Github Profile</h1>
-<h3 align="center">Expert Full-Stack Developer</h3>
+<h3 align="center">Full-Stack Software Engineer</h3>
 <img align= "right" alt="CodingGuy" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
 <div align="center">
