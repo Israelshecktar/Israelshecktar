@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Israelshecktar&style=plastic&color=red&label=PROFILE+VIEWS)
 
-<img src="https://app.gemoo.com/share/image-annotation/613386417925595136?codeId=DGaYrbGx0arVQ&origin=imageurlgenerator&card=613386415140577280" alt="MasterHead" width="500" height="300"/>
+<img src="https://drive.google.com/file/d/1UN48HmhGfyXrg23OqlH30ecNH_d5TsCi/view?usp=sharing" alt="MasterHead" width="500" height="300"/>
 <h1 align="center">Ewedairo Israel Ayomide Github Profile</h1>
 <h3 align="center">Full-Stack Software Engineer</h3>
 <img align= "right" alt="CodingGuy" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
