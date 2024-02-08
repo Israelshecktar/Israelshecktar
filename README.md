@@ -17,9 +17,13 @@
 </div>
 
 🔭 I’m currently working with DJANGO for full stack developement
+
 🌱 I’m currently learning Typescript
+
 ❓ Ask me about anything relate to devOPs, System Administration and backend developement
+
 ⚡ Fun fact: I am a student of Alx school of Software Engineering
+
 ⚡ Fun fact: The word “TYPEWRITER” can be typed using only the letters on one row of a computer keyboard
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Israelshecktar&theme=dark&hide_border=true)](https://git.io/streak-stats)
