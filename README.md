@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Israelshecktar&style=plastic&color=red&label=PROFILE+VIEWS)
 
-<img src="https://www.shecktardev.tech/my_img.png" style="width: 100%" />
+<img src="images/shecktar" alt="Israelshecktar" style="width: 100%" />
 <h1 align="center">Ewedairo Israel Ayomide Github Profile</h1>
 <h3 align="center">Full-Stack Software Engineer</h3>
 <img align= "right" alt="CodingGuy" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
@@ -12,20 +12,20 @@
 </div>
 
 <div align="center">
- 
+
   ###  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=180D1D&center=true&width=435&lines=Hi+there!+How+wonderful+to+meet+you;I'm+Israel%2C+an+astute+Back-End+Developer;Software+Engineering+Intern+%40ALX_Africa;Thanks+for+stopping+by)](https://git.io/typing-svg)
 </div>
 
 🔭 I’m currently working with FLASK for full stack developement
 
-🌱 I’m currently learning Typescript
+🌱 I’m currently learning Typescript and nextjs
 
 ❓ Ask me about anything relate to devOPs, System Administration and backend developement
 
 ⚡ Fun fact: I am a student of Alx school of Software Engineering
 
 ⚡ Fun fact: The word “TYPEWRITER” can be typed using only the letters on one row of a computer keyboard
-  
+
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Israelshecktar&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <br/>
 
@@ -131,9 +131,9 @@
 <a href="https://twitter.com/shecktar5" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
- 
+
  [![medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@iamshecktar1996)
- 
+
 </div>
 
 <br/>
