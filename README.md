@@ -103,26 +103,26 @@
 
 ## Connect with me
 <div align="center">
-<a href="https://github.com/Israelshecktar" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/Israelshecktar" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/israel-ewedairo-439bb5240/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
- <a href="mailto:iamshecktar1996@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://twitter.com/shecktar5" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-
- [![medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@iamshecktar1996)
-
+  <a href="https://github.com/Israelshecktar" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://dev.to/Israelshecktar" target="_blank">
+    <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/israel-ewedairo-439bb5240/" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+  <a href="mailto:iamshecktar1996@gmail.com" target="_blank">
+    <img src=https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://twitter.com/shecktar5" target="_blank">
+    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://medium.com/@iamshecktar1996" target="_blank">
+    <img src="https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black" alt="medium">
+  </a>
 </div>
+
 
 ## Github Stats
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Israelshecktar&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
