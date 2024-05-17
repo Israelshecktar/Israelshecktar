@@ -150,6 +150,7 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=Israelshecktar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adedoyin-emmanuel&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" alt="adedoyin-emmanuel" /></p>
 
 
 
