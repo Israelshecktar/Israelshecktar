@@ -40,9 +40,6 @@
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">
 <img style="margin: 10px" src="https://www.nwnlist.com/wp-content/uploads/2021/03/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb-1-e1615980450255.png" alt="CSS" height="50" />
 </a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
-  <img style="margin: 10px" src="https://example.com/javascript-icon.svg" alt="JavaScript" height="50" />
-</a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
