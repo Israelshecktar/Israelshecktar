@@ -100,6 +100,7 @@
 
 ### 📊 Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Israelshecktar&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" alt="Israelshecktar" /></p>
+
 <br>
 
 ## Connect with me
@@ -107,7 +108,6 @@
   <a href="https://github.com/Israelshecktar" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
-  <br> <!-- New line here -->
   <a href="https://dev.to/Israelshecktar" target="_blank">
     <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
   </a>
@@ -124,6 +124,7 @@
     <img src="https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black" alt="medium">
   </a>
 </div>
+</br>
 
 
 ## Github Stats
