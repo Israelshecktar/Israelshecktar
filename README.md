@@ -98,9 +98,23 @@
 ✅ Professionalism
 </hr>
 
+
+<hr>
+
+## ❤ Views and Followers.
+
+<a href="https://github.com/Israelshecktar/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Israelshecktar">
+</a>
+<a href="https://github.com/Israelshecktar?tab=followers"><img src="https://img.shields.io/github/followers/Israelshecktar?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
  <br>
+
+
 ## 📊 Stats
 [![Israelshecktar's GitHub Languages Over Time](https://github-readme-stats.vercel.app/api/top-langs/?username=Israelshecktar&langs_count=100&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Connect with me
 <div align="center">
 <a href="https://github.com/Israelshecktar" target="_blank">
@@ -115,12 +129,17 @@
  <a href="mailto:iamshecktar1996@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
+
 <a href="https://twitter.com/shecktar5" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
+
  [![medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@iamshecktar1996)
+
 </div>
+
 <br/>
+
 
 
 ## Github Stats
