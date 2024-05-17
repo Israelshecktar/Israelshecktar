@@ -111,7 +111,7 @@
 
 
 ## 📊 Stats
-[![Israelshecktar's GitHub Languages Over Time](https://github-readme-stats.vercel.app/api/top-langs/?username=Israelshecktar&langs_count=100&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adedoyin-emmanuel&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" alt="adedoyin-emmanuel" /></p>
 
 ## Connect with me
 <div align="center">
@@ -150,8 +150,6 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=Israelshecktar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adedoyin-emmanuel&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" alt="adedoyin-emmanuel" /></p>
-
 
 
 
