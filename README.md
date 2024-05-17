@@ -101,13 +101,6 @@
 
 <hr>
 
-## ❤ Views and Followers.
-
-<a href="https://github.com/Israelshecktar/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Israelshecktar">
-</a>
-<a href="https://github.com/Israelshecktar?tab=followers"><img src="https://img.shields.io/github/followers/Israelshecktar?label=Followers&style=social" alt="GitHub Badge"></a>
-
 
  <br>
 
