@@ -100,6 +100,7 @@
 
 ### 📊 Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Israelshecktar&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" alt="Israelshecktar" /></p>
+<br>
 
 ## Connect with me
 <div align="center">
