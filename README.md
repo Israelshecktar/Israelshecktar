@@ -97,7 +97,7 @@
 
 ✅ Professionalism
 
-## 📊 Stats
+### 📊 Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Israelshecktar&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" alt="Israelshecktar" /></p>
 
 ## Connect with me
@@ -126,14 +126,14 @@
 ## Github Stats
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Israelshecktar&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
-<br/>
 
-
+<p>
 <div align="center">
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=Israelshecktar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+</p>
 
 
 
