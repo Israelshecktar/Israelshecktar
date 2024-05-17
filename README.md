@@ -37,8 +37,8 @@
 ### Frontend
 <div align="center">
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
-  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">
-  <img style="margin: 10px" src="https://example.com/css-icon.svg" alt="CSS" height="50" />
+<a href="https://en.wikipedia.org/wiki/CSS" target="_blank">
+<img style="margin: 10px" src="https://logospng.org/wp-content/uploads/css-3.png" alt="CSS" height="50" />
 </a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
   <img style="margin: 10px" src="https://example.com/javascript-icon.svg" alt="JavaScript" height="50" />
