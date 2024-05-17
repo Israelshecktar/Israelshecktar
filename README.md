@@ -97,22 +97,8 @@
 
 ✅ Professionalism
 
-<hr>
-
-## ❤ Views and Followers.
-
-<a href="https://github.com/Israelshecktar/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Israelshecktar">
-</a>
-<a href="https://github.com/Israelshecktar?tab=followers"><img src="https://img.shields.io/github/followers/Israelshecktar?label=Followers&style=social" alt="GitHub Badge"></a>
-
-
- <br>
-
-
 ## 📊 Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Israelshecktar&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" alt="Israelshecktar" /></p>
-</br>
 
 ## Connect with me
 <div align="center">
@@ -136,9 +122,6 @@
  [![medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@iamshecktar1996)
 
 </div>
-
-
-
 
 ## Github Stats
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Israelshecktar&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
