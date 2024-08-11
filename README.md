@@ -2,7 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Israelshecktar&style=plastic&color=red&label=PROFILE+VIEWS)
 
-<img src="images/shecktar.jpeg" alt="Israelshecktar" style="width: 100%" />
 <h1 align="center">Ewedairo Israel Ayomide Github Profile</h1>
 <h3 align="center">Full-Stack Software Engineer</h3>
 <img align= "right" alt="CodingGuy" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
