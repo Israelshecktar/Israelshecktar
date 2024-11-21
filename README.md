@@ -15,7 +15,9 @@
   ###  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=180D1D&center=true&width=435&lines=Hi+there!+How+wonderful+to+meet+you;I'm+Israel%2C+an+astute+Back-End+Developer;Software+Engineering+Intern+%40ALX_Africa;Thanks+for+stopping+by)](https://git.io/typing-svg)
 </div>
 
-🔭 I’m currently working with Django and Nextjs for full stack developement
+🔭 I’m currently working with Java springboot3 for full stack developement
+
+🔭 Intermediate Nextjs and Django Engineer
 
 🌱 Building fully fledged web applications on a CLI.
 
