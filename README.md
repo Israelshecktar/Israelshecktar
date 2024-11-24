@@ -15,17 +15,18 @@
   ###  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=180D1D&center=true&width=435&lines=Hi+there!+How+wonderful+to+meet+you;I'm+Israel%2C+an+astute+Back-End+Engineer;Thanks+for+stopping+by)](https://git.io/typing-svg)
 </div>
 
-🔭 I’m currently working with Java springboot3 for full stack developement
+🚀 I’m currently working with **Java Spring Boot 3** for full-stack development
 
-🔭 Intermediate Nextjs and Django Engineer
+🌐 Intermediate **Next.js** and **Django** Engineer
 
-🌱 I Design and Built Enterprise scale softwares with low latency & High Performance
+💡 I design and build **enterprise-scale software** with **low latency** and **high performance**
 
-❓ Ask me about anything related to Api, devOPs, Database Management, System Administration and backend engineering
+📚 Ask me about anything related to **APIs**, **DevOps**, **Database Management**, **System Administration**, and **Backend Engineering**
 
-⚡ Fun fact: I am a graduate of Holberton school of Software Engineering (ALx_africa)
+🎓 Fun fact: I am a graduate of **Holberton School of Software Engineering (ALX Africa)**
 
-⚡ Fun fact: The word “TYPEWRITER” can be typed using only the letters on one row of a computer keyboard
+⌨️ Fun fact: The word **“TYPEWRITER”** can be typed using only the letters on one row of a computer keyboard
+
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Israelshecktar&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <br/>
@@ -216,4 +217,4 @@
                     align="center"
                 />
             </a></div>
-<br />
+<br/>
