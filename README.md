@@ -1,4 +1,4 @@
-### Hi there 👋
+  ### Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=Israelshecktar&style=plastic&color=red&label=PROFILE+VIEWS)
 
@@ -12,16 +12,16 @@
 
 <div align="center">
 
-  ###  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=180D1D&center=true&width=435&lines=Hi+there!+How+wonderful+to+meet+you;I'm+Israel%2C+an+astute+Back-End+Developer;Software+Engineering+Intern+%40ALX_Africa;Thanks+for+stopping+by)](https://git.io/typing-svg)
+  ###  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=180D1D&center=true&width=435&lines=Hi+there!+How+wonderful+to+meet+you;I'm+Israel%2C+an+astute+Back-End+Engineer;Thanks+for+stopping+by)](https://git.io/typing-svg)
 </div>
 
 🔭 I’m currently working with Java springboot3 for full stack developement
 
 🔭 Intermediate Nextjs and Django Engineer
 
-🌱 Building fully fledged web applications on a CLI.
+🌱 I Design and Built Enterprise scale softwares with low latency & High Performance
 
-❓ Ask me about anything related to Api, devOPs, System Administration and backend engineering
+❓ Ask me about anything related to Api, devOPs, Database Management, System Administration and backend engineering
 
 ⚡ Fun fact: I am a graduate of Holberton school of Software Engineering (ALx_africa)
 
@@ -37,35 +37,71 @@
 
 ### Frontend
 <div align="center">
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
-<a href="https://en.wikipedia.org/wiki/CSS" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS" height="50" />
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS" height="50" />
+  </a>
+ <a href="https://tailwindcss.com/" target="_blank">
+  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" height="50" />
 </a>
-<a href="https://www.javascript.com/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-</a>
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
-</div>
 
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="Next.js" height="50" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
+  </a> 
+  <a href="https://www.javascript.com/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+  </a>
+</div>
 </td><td valign="top" width="33%">
 
 
 
 ### Backend
 <div align="center">
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />
+  </a>
+   <a href="https://nodejs.org/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="Next.js" height="50" />
+  </a>
+  <a href="https://spring.io/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring Boot 3" height="50" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
+  </a>
 </div>
 </td><td valign="top" width="33%">
 
@@ -73,11 +109,27 @@
 
 ### DevOps
 <div align="center">
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img style="margin: 10px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="50" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img style="margin: 10px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" height="50" />
+  </a>
+  <a href="https://aws.amazon.com/ec2/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS EC2" height="50" />
+  </a>
+  <a href="https://aws.amazon.com/s3/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS S3" height="50" />
+  </a>
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img style="margin: 10px" src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" alt="CI/CD" height="50" />
+  </a>
 </div>
 
 </td></tr></table>
@@ -88,11 +140,11 @@
 
 ✅ Cross-platform development skills
 
-✅ Creativity
+✅ Program Management
 
 ✅ Good communication skills
 
-✅ Problem-solving
+✅ Project Management
 
 ✅ Teamwork
 
@@ -104,9 +156,7 @@
 
 <hr>
 
-
  <br>
-
 
 ## 📊 Stats
 [![Israelshecktar's GitHub Languages Over Time](https://github-readme-stats.vercel.app/api/top-langs/?username=Israelshecktar&langs_count=100&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -149,8 +199,6 @@
 
 </div>
 </p>
-
-
 
 <br/>
 
