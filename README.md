@@ -1,4 +1,4 @@
-<!-- 
+<!--
     **************************************************************
     🌟 WORLD-CLASS GITHUB README FOR EWEDAIR0 ISRAEL AY0MIDE 🌟
     Feel free to tweak any part of this README to make it your own.
@@ -48,12 +48,19 @@
     <td width="33%" valign="top">
       <h3 align="center">Frontend</h3>
       <div align="center">
+        <!-- HTML5 -->
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="50" height="50" />
+        <!-- CSS3 -->
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="50" height="50" />
+        <!-- JavaScript -->
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
+        <!-- React -->
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="Next.js" width="50" height="50" />
+        <!-- Next.js -->
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="50" height="50" />
+        <!-- Bootstrap -->
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" />
+        <!-- Tailwind CSS -->
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="50" height="50" />
       </div>
     </td>
@@ -62,14 +69,23 @@
     <td width="33%" valign="top">
       <h3 align="center">Backend</h3>
       <div align="center">
+        <!-- Java -->
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50" />
+        <!-- Spring Boot -->
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="50" height="50" />
+        <!-- Python -->
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+        <!-- Django -->
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50" />
+        <!-- Flask -->
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50" />
+        <!-- Node.js -->
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" />
+        <!-- MySQL -->
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" />
+        <!-- PostgreSQL -->
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50" />
+        <!-- C -->
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50" />
       </div>
     </td>
@@ -78,12 +94,19 @@
     <td width="33%" valign="top">
       <h3 align="center">DevOps</h3>
       <div align="center">
+        <!-- Linux -->
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" />
+        <!-- GitHub -->
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" />
+        <!-- Docker -->
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50" />
+        <!-- AWS -->
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50" />
+        <!-- Azure -->
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="50" height="50" />
+        <!-- Jenkins -->
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50" />
+        <!-- Bash -->
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" alt="Bash" width="50" height="50" />
       </div>
     </td>
@@ -110,7 +133,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Israelshecktar&theme=onedark&no-frame=true&row=1&&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Israelshecktar&theme=onedark&no-frame=true&row=1&margin-w=15" alt="Trophies" />
   </a>
 </p>
 
