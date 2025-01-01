@@ -1,221 +1,154 @@
-### Hi there 👋
+<!-- 
+    **************************************************************
+    🌟 WORLD-CLASS GITHUB README FOR EWEDAIR0 ISRAEL AY0MIDE 🌟
+    Feel free to tweak any part of this README to make it your own.
+    **************************************************************
+-->
 
-![](https://komarev.com/ghpvc/?username=Israelshecktar&style=plastic&color=red&label=PROFILE+VIEWS)
+<!-- TOP BANNER (WAVING) -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Ewedairo%20Israel%20Ayomide&fontSize=36&fontAlign=50&fontAlignY=35)
 
-<h1 align="center">Ewedairo Israel Ayomide Github Profile</h1>
-<h3 align="center">Full-Stack Software Engineer</h3>
-<img align= "right" alt="CodingGuy" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>
-
-<div align="center">
-
-  ###  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=180D1D&center=true&width=435&lines=Hi+there!+How+wonderful+to+meet+you;I'm+Israel%2C+an+astute+Back-End+Engineer;Thanks+for+stopping+by)](https://git.io/typing-svg)
-</div>
-
-🚀 I’m currently working with **Java Spring Boot 3** for full-stack development
-
-🌐 Intermediate **Next.js** and **Django** Engineer
-
-💡 I design and build **enterprise-scale software** with **low latency** and **high performance**
-
-📚 Ask me about anything related to **APIs**, **DevOps**, **Database Management**, **System Administration**, and **Backend Engineering**
-
-🎓 Fun fact: I am a graduate of **Holberton School of Software Engineering (ALX Africa)**
-
-⌨️ Fun fact: The word **“TYPEWRITER”** can be typed using only the letters on one row of a computer keyboard
-
-
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Israelshecktar&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-<br/>
-
-## My Skill Set
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend
-<div align="center">
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS" height="50" />
-  </a>
- <a href="https://tailwindcss.com/" target="_blank">
-  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" height="50" />
-</a>
-
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="Next.js" height="50" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-  </a> 
-  <a href="https://www.javascript.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-  </a>
-</div>
-</td><td valign="top" width="33%">
-
-
-
-### Backend
-<div align="center">
-  <a href="https://www.linux.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />
-  </a>
-   <a href="https://nodejs.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="Next.js" height="50" />
-  </a>
-  <a href="https://spring.io/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring Boot 3" height="50" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
-  </a>
-</div>
-</td><td valign="top" width="33%">
-
-
-
-### DevOps
-<div align="center">
-  <a href="https://www.linux.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img style="margin: 10px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="50" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img style="margin: 10px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" height="50" />
-  </a>
-  <a href="https://aws.amazon.com/ec2/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS EC2" height="50" />
-  </a>
-  <a href="https://aws.amazon.com/s3/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS S3" height="50" />
-  </a>
-  <a href="https://azure.microsoft.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />
-  </a>
-  <a href="https://www.jenkins.io/" target="_blank">
-    <img style="margin: 10px" src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" alt="CI/CD" height="50" />
-  </a>
-</div>
-
-</td></tr></table>
-
-<hr>
-
-### 👔 Soft skills.
-
-✅ Cross-platform development skills
-
-✅ Program Management
-
-✅ Good communication skills
-
-✅ Project Management
-
-✅ Teamwork
-
-✅ Back-end computing
-
-✅ Professionalism
-</hr>
-
-
-<hr>
-
- <br>
-
-## 📊 Stats
-[![Israelshecktar's GitHub Languages Over Time](https://github-readme-stats.vercel.app/api/top-langs/?username=Israelshecktar&langs_count=100&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## Connect with me
-<div align="center">
-<a href="https://github.com/Israelshecktar" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/Israelshecktar" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/israel-ewedairo-439bb5240/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
- <a href="mailto:iamshecktar1996@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://twitter.com/shecktar5" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-
- [![medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@iamshecktar1996)
-
-</div>
-
-<br/>
-
-
-
-## Github Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Israelshecktar&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
-
-<p>
-<div align="center">
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Israelshecktar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Israel.;Full-Stack+Software+Engineer;Low+latency,+High+performance" alt="Typing SVG" />
 </p>
 
-<br/>
+<!-- INTRO / ABOUT ME -->
+<h3 align="center">👨‍💻 About Me</h3>
+<p align="center">
+  <strong>I’m currently working with Java Spring Boot 3</strong> for full-stack development.<br/>
+  Intermediate <strong>Next.js</strong> and <strong>Django</strong> Engineer.<br/>
+  I design and build <strong>enterprise-scale software</strong> with <strong>low latency</strong> & <strong>high performance</strong>.<br/><br/>
+  Ask me about <strong>APIs</strong>, <strong>DevOps</strong>, <strong>Database Management</strong>, <strong>System Administration</strong>, or <strong>Backend Engineering</strong>.<br/>
+  Proud graduate of <strong>Holberton School of Software Engineering (ALX Africa)</strong>.<br/>
+  <em>Fun Fact:</em> The word <strong>“TYPEWRITER”</strong> can be typed using only letters on one row of a QWERTY keyboard!
+</p>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Israelshecktar&&style=flat-square" align="center" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Israelshecktar&style=for-the-badge&color=red&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>
 
+---
 
-<br/>
+<!-- STREAK STATS -->
+<h2 align="center">🔥 Streak Stats</h2>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Israelshecktar&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+  </a>
+</p>
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/Israelshecktar" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee"
-                    align="center"
-                />
-            </a></div>
-<br/>
+---
+
+<!-- SKILLS -->
+<h2 align="center">🚀 My Skill Set</h2>
+
+<table width="100%">
+  <tr>
+    <!-- FRONTEND -->
+    <td width="33%" valign="top">
+      <h3 align="center">Frontend</h3>
+      <div align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="50" height="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="50" height="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="Next.js" width="50" height="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="50" height="50" />
+      </div>
+    </td>
+
+    <!-- BACKEND -->
+    <td width="33%" valign="top">
+      <h3 align="center">Backend</h3>
+      <div align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="50" height="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50" />
+      </div>
+    </td>
+
+    <!-- DEVOPS -->
+    <td width="33%" valign="top">
+      <h3 align="center">DevOps</h3>
+      <div align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="50" height="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" alt="Bash" width="50" height="50" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- SOFT SKILLS -->
+<h2 align="center">👔 Soft Skills</h2>
+<p align="center">
+  ✅ Cross-platform development &emsp;|&emsp; ✅ Program Management &emsp;|&emsp; ✅ Good communication <br/>
+  ✅ Project Management &emsp;|&emsp; ✅ Teamwork &emsp;|&emsp; ✅ Back-end computing &emsp;|&emsp; ✅ Professionalism
+</p>
+
+---
+
+<!-- GITHUB STATS -->
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Israelshecktar&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israelshecktar&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Israelshecktar&theme=onedark&no-frame=true&row=1&&margin-w=15" alt="Trophies" />
+  </a>
+</p>
+
+---
+
+<!-- CONNECT WITH ME -->
+<h2 align="center">🤝 Connect With Me</h2>
+<p align="center">
+  <a href="https://github.com/Israelshecktar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://dev.to/Israelshecktar" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/israel-ewedairo-439bb5240/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:iamshecktar1996@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/shecktar5" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@iamshecktar1996" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<!-- BUY ME A COFFEE -->
+<p align="center">
+  <a href="https://www.buymeacoffee.com/Israelshecktar" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-orange?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
+  </a>
+</p>
+
+<!-- FOOTER (WAVING) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
