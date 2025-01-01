@@ -28,7 +28,8 @@
 ⌨️ Fun fact: The word **“TYPEWRITER”** can be typed using only the letters on one row of a computer keyboard
 
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Israelshecktar&theme=dark&hide_border=true)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Israelshecktar&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 <br/>
 
 ## My Skill Set
