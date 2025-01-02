@@ -159,9 +159,6 @@
 
  <br>
 
-## 📊 Stats
-[![Israelshecktar's GitHub Languages Over Time](https://github-readme-stats.vercel.app/api/top-langs/?username=Israelshecktar&langs_count=100&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 📊 My GitHub Stats
 
 <!-- Combined Stats & Top Languages -->
