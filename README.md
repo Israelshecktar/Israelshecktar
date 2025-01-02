@@ -222,29 +222,6 @@
 
 <br/>
 
-
-
-## Github Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Israelshecktar&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
-
-<p>
-<div align="center">
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Israelshecktar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-</p>
-
-<br/>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Israelshecktar&&style=flat-square" align="center" />
-</div>
-
-
-<br/>
-
 <div align="center">
             <a href="https://www.buymeacoffee.com/Israelshecktar" target="_blank" style="display: inline-block;">
                 <img
