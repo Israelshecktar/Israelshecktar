@@ -27,7 +27,7 @@
     <li>⚡ Fun fact: The word <strong>“TYPEWRITER”</strong> can be typed using only letters on one row of a QWERTY keyboard</li>
   </ul>
 </p>
-## My Skill Set
+### My Skill Set
 <table><tr><td valign="top" width="33%">
 
 
