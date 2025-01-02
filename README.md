@@ -1,4 +1,4 @@
-  <!-- TOP BANNER (WAVING) -->
+<!-- TOP BANNER (WAVING) -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Ewedairo%20Israel%20Ayomide&fontSize=36&fontAlign=50&fontAlignY=35)
 
 <!-- PROFILE VIEWS BADGE -->
@@ -10,36 +10,28 @@
 <h1 align="center">Ewedairo Israel Ayomide GitHub Profile</h1>
 <h3 align="center">Full-Stack Software Engineer</h3>
 
-<!-- ANIMATED GIF -->
+<!-- CODING GIF (RIGHT-ALIGNED) -->
 <p align="right">
   <img alt="CodingGuy" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" />
 </p>
 
-<!-- GREETING GIF (OPTIONAL) 
-<p align="center">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</p>
--->
-
 <!-- TYPING SVG INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=180D1D&center=true&width=435&lines=Hi+there!+How+wonderful+to+meet+you;I'm+Israel%2C+an+astute+Back-End+Engineer;Thanks+for+stopping+by" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=180D1D&center=true&width=435&lines=Hi+there!+It's+great+to+have+you+here;I'm+Israel%2C+Your+Solution-Oriented+Engineer;Delighted+to+Meet+You!" alt="Typing SVG" />
 </p>
 
----
-
-<!-- ABOUT / FUN FACTS -->
+<!-- BULLETED INTRO SECTION -->
 <p align="center">
-  🚀 I’m currently working with <strong>Java Spring Boot 3</strong> for full-stack development <br/>
-  🌐 Intermediate <strong>Next.js</strong> and <strong>Django</strong> Engineer <br/>
-  💡 I design and build <strong>enterprise-scale software</strong> with <strong>low latency</strong> and <strong>high performance</strong> <br/>
-  📚 Ask me about anything related to <strong>APIs</strong>, <strong>DevOps</strong>, <strong>Database Management</strong>, <strong>System Administration</strong>, and <strong>Backend Engineering</strong> <br/>
-  🎓 Fun fact: I am a graduate of <strong>Holberton School of Software Engineering (ALX Africa)</strong> <br/>
-  ⌨️ Another fun fact: The word <strong>“TYPEWRITER”</strong> can be typed using only the letters on one row of a computer keyboard
+  <ul style="list-style-type: none;">
+    <li>⚡ Currently advancing <strong>Java Spring Boot 3</strong> for full-stack development</li>
+    <li>⚡ Skilled with <strong>Next.js</strong> and <strong>Django</strong> for building modern applications</li>
+    <li>⚡ Dedicated to creating <strong>enterprise-grade solutions</strong> that emphasize <strong>low latency</strong> and <strong>high performance</strong></li>
+    <li>⚡ Always open to discussing <strong>APIs</strong>, <strong>DevOps</strong>, <strong>Database Management</strong>, <strong>System Administration</strong>, and <strong>Backend Engineering</strong></li>
+    <li>⚡ Graduate of <strong>Holberton School of Software Engineering (ALX Africa)</strong></li>
+    <li>⚡ Fun fact: The word <strong>“TYPEWRITER”</strong> can be typed using only letters on one row of a QWERTY keyboard</li>
+  </ul>
 </p>
 
-<!-- OPTIONAL SEPARATOR -->
----
 
 
 
