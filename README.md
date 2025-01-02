@@ -137,19 +137,12 @@
 
 ### 👔 Soft Skills
 
-<div style="margin-left: 40px;">
-  <img src="https://cdn-icons-png.flaticon.com/512/3566/3566345.png" alt="Laptop" width="25" style="vertical-align:middle;margin-right:5px;"> **Multi-Platform Development Proficiency**  
-  <br/>
-  <img src="https://cdn-icons-png.flaticon.com/512/879/879757.png" alt="Clipboard" width="25" style="vertical-align:middle;margin-right:5px;"> **Strategic Program & Project Management**  
-  <br/>
-  <img src="https://cdn-icons-png.flaticon.com/512/1377/1377407.png" alt="Speech Bubble" width="25" style="vertical-align:middle;margin-right:5px;"> **Effective Communication & Stakeholder Engagement**  
-  <br/>
-  <img src="https://cdn-icons-png.flaticon.com/512/2545/2545873.png" alt="Team" width="25" style="vertical-align:middle;margin-right:5px;"> **Collaborative Team Leadership**  
-  <br/>
-  <img src="https://cdn-icons-png.flaticon.com/512/2492/2492799.png" alt="Server" width="25" style="vertical-align:middle;margin-right:5px;"> **Advanced Backend Architecture & System Design**  
-  <br/>
-  <img src="https://cdn-icons-png.flaticon.com/512/845/845646.png" alt="Check Mark" width="25" style="vertical-align:middle;margin-right:5px;"> **High-Level Professional Integrity**
-</div>
+<img src="https://cdn-icons-png.flaticon.com/512/3566/3566345.png" alt="Laptop" width="25" style="vertical-align:middle;margin-right:5px;"> **Multi-Platform Development Proficiency**  
+<img src="https://cdn-icons-png.flaticon.com/512/879/879757.png" alt="Clipboard" width="25" style="vertical-align:middle;margin-right:5px;"> **Strategic Program & Project Management**  
+<img src="https://cdn-icons-png.flaticon.com/512/1377/1377407.png" alt="Speech Bubble" width="25" style="vertical-align:middle;margin-right:5px;"> **Effective Communication & Stakeholder Engagement**  
+<img src="https://cdn-icons-png.flaticon.com/512/2545/2545873.png" alt="Team" width="25" style="vertical-align:middle;margin-right:5px;"> **Collaborative Team Leadership**  
+<img src="https://cdn-icons-png.flaticon.com/512/2492/2492799.png" alt="Server" width="25" style="vertical-align:middle;margin-right:5px;"> **Advanced Backend Architecture & System Design**  
+<img src="https://cdn-icons-png.flaticon.com/512/845/845646.png" alt="Check Mark" width="25" style="vertical-align:middle;margin-right:5px;"> **High-Level Professional Integrity**
 
 ## 📊 My GitHub Stats
 <p align="center">
