@@ -1,31 +1,46 @@
-  ### Hi there 👋
+  <!-- TOP BANNER (WAVING) -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Ewedairo%20Israel%20Ayomide&fontSize=36&fontAlign=50&fontAlignY=35)
 
-![](https://komarev.com/ghpvc/?username=Israelshecktar&style=plastic&color=red&label=PROFILE+VIEWS)
+<!-- PROFILE VIEWS BADGE -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Israelshecktar&style=plastic&color=red&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
-<h1 align="center">Ewedairo Israel Ayomide Github Profile</h1>
+<!-- MAIN TITLE & SUBTITLE -->
+<h1 align="center">Ewedairo Israel Ayomide GitHub Profile</h1>
 <h3 align="center">Full-Stack Software Engineer</h3>
-<img align= "right" alt="CodingGuy" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>
+<!-- ANIMATED GIF -->
+<p align="right">
+  <img alt="CodingGuy" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" />
+</p>
 
-<div align="center">
+<!-- GREETING GIF (OPTIONAL) 
+<p align="center">
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</p>
+-->
 
-  ###  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=180D1D&center=true&width=435&lines=Hi+there!+How+wonderful+to+meet+you;I'm+Israel%2C+an+astute+Back-End+Engineer;Thanks+for+stopping+by)](https://git.io/typing-svg)
-</div>
+<!-- TYPING SVG INTRO -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=180D1D&center=true&width=435&lines=Hi+there!+How+wonderful+to+meet+you;I'm+Israel%2C+an+astute+Back-End+Engineer;Thanks+for+stopping+by" alt="Typing SVG" />
+</p>
 
-🚀 I’m currently working with **Java Spring Boot 3** for full-stack development
+---
 
-🌐 Intermediate **Next.js** and **Django** Engineer
+<!-- ABOUT / FUN FACTS -->
+<p align="center">
+  🚀 I’m currently working with <strong>Java Spring Boot 3</strong> for full-stack development <br/>
+  🌐 Intermediate <strong>Next.js</strong> and <strong>Django</strong> Engineer <br/>
+  💡 I design and build <strong>enterprise-scale software</strong> with <strong>low latency</strong> and <strong>high performance</strong> <br/>
+  📚 Ask me about anything related to <strong>APIs</strong>, <strong>DevOps</strong>, <strong>Database Management</strong>, <strong>System Administration</strong>, and <strong>Backend Engineering</strong> <br/>
+  🎓 Fun fact: I am a graduate of <strong>Holberton School of Software Engineering (ALX Africa)</strong> <br/>
+  ⌨️ Another fun fact: The word <strong>“TYPEWRITER”</strong> can be typed using only the letters on one row of a computer keyboard
+</p>
 
-💡 I design and build **enterprise-scale software** with **low latency** and **high performance**
+<!-- OPTIONAL SEPARATOR -->
+---
 
-📚 Ask me about anything related to **APIs**, **DevOps**, **Database Management**, **System Administration**, and **Backend Engineering**
-
-🎓 Fun fact: I am a graduate of **Holberton School of Software Engineering (ALX Africa)**
-
-⌨️ Fun fact: The word **“TYPEWRITER”** can be typed using only the letters on one row of a computer keyboard
 
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Israelshecktar&theme=dark&hide_border=true)](https://git.io/streak-stats)
