@@ -164,6 +164,44 @@
 ## 📊 Stats
 [![Israelshecktar's GitHub Languages Over Time](https://github-readme-stats.vercel.app/api/top-langs/?username=Israelshecktar&langs_count=100&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+## 📊 My GitHub Stats
+
+<!-- Combined Stats & Top Languages -->
+<p align="center">
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Israelshecktar&show_icons=true&count_private=true&hide_border=true&theme=dark"
+    height="180em"
+    alt="GitHub Stats"
+  />
+  
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israelshecktar&langs_count=8&layout=compact&hide_border=true&theme=dark"
+    height="180em"
+    alt="Top Languages"
+  />
+</p>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=Israelshecktar&theme=dark&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+<!-- Trophies (Optional) -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=Israelshecktar&theme=onedark&no-frame=true&row=1&&margin-w=15"
+      alt="Trophies"
+    />
+  </a>
+</p>
+
+
 ## Connect with me
 <div align="center">
 <a href="https://github.com/Israelshecktar" target="_blank">
