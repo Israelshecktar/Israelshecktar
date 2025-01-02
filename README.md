@@ -137,21 +137,15 @@
 <hr>
 
 
-### 👔 Soft skills.
+### 👔 Soft Skills
 
-✅ Cross-platform development skills
+- **Multi-Platform Development Proficiency**  
+- **Strategic Program & Project Management**  
+- **Excellent Communication & Stakeholder Engagement**  
+- **Collaborative Team Leadership**  
+- **Advanced Backend Architecture & System Design**  
+- **High-Level Professional Integrity**
 
-✅ Program Management
-
-✅ Good communication skills
-
-✅ Project Management
-
-✅ Teamwork
-
-✅ Back-end computing
-
-✅ Professionalism
 </hr>
 
 
