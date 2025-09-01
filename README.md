@@ -1,5 +1,5 @@
 <!-- TOP BANNER (WAVING) -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Ewedairo%20Israel%20Ayomide&fontSize=36&fontAlign=50&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Israel%20Ayomide&fontSize=36&fontAlign=50&fontAlignY=35)
 
 <!-- PROFILE VIEWS BADGE -->
 <p align="center">
